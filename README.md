@@ -2,10 +2,12 @@
 
 ## Courses
 
-1. [Numerical Analysis with Justin Solomon](https://www.youtube.com/playlist?list=PLHrg69yaUAPeiLEsa-1KauSe2HaA0Wf6I)
-2. [Computational Techniques](https://www.youtube.com/playlist?list=PL42204FB1209D0EC3)
-3. [Numerical Methods in Civil Engineering](https://nptel.ac.in/courses/105105043)
-4. [Numerical Methods Guy](https://www.youtube.com/c/numericalmethodsguy)
+1. [Numerical Methods](https://www.youtube.com/playlist?list=PLJ6garKOlK2qAsLVJdzId46toNx75PgFt) by Brittany Hamfeldt
+2. [Introduction to Numerical Analysis for Engineers](https://www.youtube.com/playlist?list=PLLHqYFG9ZRRhriDPYCweP1ehIo4b7zeqc) | [Labs](https://www.youtube.com/playlist?list=PLLHqYFG9ZRRgdbTeaSt05yb5m-lREkze1) by Lindsey Westover
+3. [Numerical Analysis](https://www.youtube.com/playlist?list=PLHrg69yaUAPeiLEsa-1KauSe2HaA0Wf6I) with Justin Solomon
+4. [Computational Techniques](https://www.youtube.com/playlist?list=PL42204FB1209D0EC3)
+5. [Numerical Methods in Civil Engineering](https://nptel.ac.in/courses/105105043)
+6. [Numerical Methods Guy](https://www.youtube.com/c/numericalmethodsguy)
 
 ## Books
 
